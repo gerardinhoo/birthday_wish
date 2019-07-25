@@ -11,7 +11,7 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
-  font-size: 3em;
+  font-size: 40px;
   font-weight: 900;
   -webkit-user-select: none;
   user-select: none;
@@ -19,7 +19,7 @@ h1 {
 }
 
 .carmyn {
-  margin-top: 80%;
+  margin-top: 65%;
 }
 
 body {
